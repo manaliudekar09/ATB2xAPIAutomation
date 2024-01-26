@@ -1,0 +1,98 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "ATB2xAPIAutomation",
+      "children" : [ {
+        "name" : "com.thetestingacademy.tests.fullcrud.Annotationdemo",
+        "children" : [ {
+          "name" : "demo2",
+          "uid" : "750ee2acf93dd911",
+          "parentUid" : "34b554b08943c24f4da3be3b736a2ab3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1682833137767,
+            "stop" : 1682833137779,
+            "duration" : 12
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "demo5",
+          "uid" : "cfbbd4d26b8b4f03",
+          "parentUid" : "34b554b08943c24f4da3be3b736a2ab3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1682833259491,
+            "stop" : 1682833259501,
+            "duration" : 10
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "34b554b08943c24f4da3be3b736a2ab3"
+      } ],
+      "uid" : "0e41ab1a4f3eebe0bb269ffdaba29437"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  }, {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "ATB2xAPIAutomation",
+      "children" : [ {
+        "name" : "com.thetestingacademy.tests.fullcrud.GETRequestTest",
+        "children" : [ {
+          "name" : "test_get",
+          "uid" : "2e5a07811f14322a",
+          "parentUid" : "693681f2731262a2e02dbee5ae9af004",
+          "status" : "passed",
+          "time" : {
+            "start" : 1682834153031,
+            "stop" : 1682834153050,
+            "duration" : 19
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_get2",
+          "uid" : "373c96470ffb47f7",
+          "parentUid" : "693681f2731262a2e02dbee5ae9af004",
+          "status" : "passed",
+          "time" : {
+            "start" : 1682834153184,
+            "stop" : 1682834153184,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "693681f2731262a2e02dbee5ae9af004"
+      }, {
+        "name" : "com.thetestingacademy.tests.fullcrud.POSTRequestTest",
+        "children" : [ {
+          "name" : "test_postCreateBooking",
+          "uid" : "c4025afabe9b7377",
+          "parentUid" : "e30826b84117297564f6ba769cf82f38",
+          "status" : "failed",
+          "time" : {
+            "start" : 1682838837405,
+            "stop" : 1682838842618,
+            "duration" : 5213
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e30826b84117297564f6ba769cf82f38"
+      } ],
+      "uid" : "084ea459691ae984ba712eafb46393d7"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ]
+}

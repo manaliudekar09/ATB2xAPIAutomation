@@ -1,0 +1,150 @@
+{
+  "uid" : "2e5a07811f14322a",
+  "name" : "test_get",
+  "fullName" : "com.thetestingacademy.tests.fullcrud.GETRequestTest.test_get",
+  "historyId" : "8429c5fe76a412b0a73cb105a024b0a",
+  "time" : {
+    "start" : 1682834153031,
+    "stop" : 1682834153050,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "ATB2xAPIAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "host",
+    "value" : "MBP-C02DRR20MD6M"
+  }, {
+    "name" : "thread",
+    "value" : "24156@MBP-C02DRR20MD6M.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "25f0b8edf9eaa72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832754347,
+        "stop" : 1682832754358,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "dcb90c93414a9775",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832739798,
+        "stop" : 1682832739811,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "bafb0729b9446858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832701696,
+        "stop" : 1682832701708,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "cfcd298182d1f3cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832686332,
+        "stop" : 1682832686344,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "6ed2d942c646c9e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832648770,
+        "stop" : 1682832648785,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "8a9106444b40c51c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832622755,
+        "stop" : 1682832622766,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "19af0b43d6ebd8fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832559890,
+        "stop" : 1682832559909,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "843936ddba822b49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832349125,
+        "stop" : 1682832349146,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "aa3770d998730c53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682832264838,
+        "stop" : 1682832264866,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "c39859bc7094040f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682831830049,
+        "stop" : 1682831830076,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "afe5a93b9da4961f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682750258713,
+        "stop" : 1682750261444,
+        "duration" : 2731
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e5a07811f14322a.json",
+  "parameterValues" : [ ]
+}

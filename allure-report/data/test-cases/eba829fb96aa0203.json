@@ -1,0 +1,60 @@
+{
+  "uid" : "eba829fb96aa0203",
+  "name" : "test_get2",
+  "fullName" : "com.thetestingacademy.tests.fullcrud.GETRequestTest.test_get2",
+  "historyId" : "6a0db4dae406bf196219bbc431f3639e",
+  "time" : {
+    "start" : 1682832349271,
+    "stop" : 1682832349271,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/Users/pramod/Documents/APITest/ATB2xAPIAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "host",
+    "value" : "MBP-C02DRR20MD6M"
+  }, {
+    "name" : "thread",
+    "value" : "22471@MBP-C02DRR20MD6M.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eba829fb96aa0203.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,98 @@
+{
+  "6a0db4dae406bf196219bbc431f3639e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "373c96470ffb47f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682834153184,
+        "stop" : 1682834153184,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d319a248e79672a7e04f9efd4918e845" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "750ee2acf93dd911",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682833137767,
+        "stop" : 1682833137779,
+        "duration" : 12
+      }
+    } ]
+  },
+  "8429c5fe76a412b0a73cb105a024b0a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e5a07811f14322a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682834153031,
+        "stop" : 1682834153050,
+        "duration" : 19
+      }
+    } ]
+  },
+  "66bbb780ef9128df23084c4694df9593" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfbbd4d26b8b4f03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682833259491,
+        "stop" : 1682833259501,
+        "duration" : 10
+      }
+    } ]
+  },
+  "ada54bcd1904b0bcb7b4ec2a99e56af3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4025afabe9b7377",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nResponse body doesn't match expectation.\nExpected: a value less than <5000L>\n  Actual: {\"bookingid\":4531,\"booking\":{\"firstname\":\"Pramod\",\"lastname\":\"Dutta\",\"totalprice\":200,\"depositpaid\":true,\"bookingdates\":{\"checkin\":\"2022-10-01\",\"checkout\":\"2022-10-01\"},\"additionalneeds\":\"Lunch\"}}\n",
+      "time" : {
+        "start" : 1682838837405,
+        "stop" : 1682838842618,
+        "duration" : 5213
+      }
+    } ]
+  }
+}

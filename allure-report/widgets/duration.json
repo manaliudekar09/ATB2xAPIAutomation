@@ -1,0 +1,51 @@
+[ {
+  "uid" : "373c96470ffb47f7",
+  "name" : "test_get2",
+  "time" : {
+    "start" : 1682834153184,
+    "stop" : 1682834153184,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfbbd4d26b8b4f03",
+  "name" : "demo5",
+  "time" : {
+    "start" : 1682833259491,
+    "stop" : 1682833259501,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4025afabe9b7377",
+  "name" : "test_postCreateBooking",
+  "time" : {
+    "start" : 1682838837405,
+    "stop" : 1682838842618,
+    "duration" : 5213
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "750ee2acf93dd911",
+  "name" : "demo2",
+  "time" : {
+    "start" : 1682833137767,
+    "stop" : 1682833137779,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e5a07811f14322a",
+  "name" : "test_get",
+  "time" : {
+    "start" : 1682834153031,
+    "stop" : 1682834153050,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

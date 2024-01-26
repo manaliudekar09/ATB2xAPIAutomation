@@ -1,0 +1,60 @@
+{
+  "uid" : "19af0b43d6ebd8fd",
+  "name" : "test_get",
+  "fullName" : "com.thetestingacademy.tests.fullcrud.GETRequestTest.test_get",
+  "historyId" : "8429c5fe76a412b0a73cb105a024b0a",
+  "time" : {
+    "start" : 1682832559890,
+    "stop" : 1682832559909,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "ATB2xAPIAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.thetestingacademy.tests.fullcrud.GETRequestTest"
+  }, {
+    "name" : "host",
+    "value" : "MBP-C02DRR20MD6M"
+  }, {
+    "name" : "thread",
+    "value" : "22705@MBP-C02DRR20MD6M.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19af0b43d6ebd8fd.json",
+  "parameterValues" : [ ]
+}
